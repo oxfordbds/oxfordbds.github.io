@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is a coalition of staff and students at the University of Oxford committed to Palestinian liberation. We stand in full solidarity with the student-led [Oxford Action for Palestine (OX4P) Solidarity Encampment](https://linktr.ee/oxact4pal). Please see our collective demands below:
+The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is a coalition of staff and students at the University of Oxford committed to Palestinian liberation. We stand in full solidarity with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). Please see our collective demands below:
 
 1. Disclose University-wide Assets
 2. Divest University-wide Assets 
