@@ -17,4 +17,4 @@ The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is a coalition of s
 
 For inquiries, please email [bds.coalition.oxford@proton.me](mailto:bds.coalition.oxford@proton.me)
 
-<embed src="https://oxfordbds.github.io/data/draft.pdf" width="750" height="500" type="application/pdf">
+<embed src="https://oxfordbds.github.io/data/draft.pdf" width="750" height="1070" type="application/pdf">
