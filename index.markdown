@@ -17,6 +17,6 @@ The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is a coalition of s
 
 
 
-The Primer on our demands to the University of Oxford should be visible in an embedded pdf below. If this does not work, please find the file here: [https://oxfordbds.github.io/data/draft.pdf](https://oxfordbds.github.io/data/draft.pdf)
+The Primer on our demands to the University of Oxford should be visible in an embedded pdf below. If this does not work, please find the file here: [https://oxfordbds.github.io/data/draft.pdf](https://oxfordbds.github.io/data/primer.pdf)
 
-<embed src="https://oxfordbds.github.io/data/draft.pdf" width="750" height="1070" type="application/pdf">
+<embed src="https://oxfordbds.github.io/data/primer.pdf" width="750" height="1070" type="application/pdf">
