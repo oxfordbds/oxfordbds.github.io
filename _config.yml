@@ -27,9 +27,11 @@ url: "https://oxfordbds.github.io" # the base hostname & protocol for your site,
   #github_username:  oxfordbds
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -38,6 +40,8 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
+#
+#
 #
 exclude:
   - about.markdown
@@ -51,3 +55,5 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#
+logo: assets/img/OxBDSCo_circleblack.png
