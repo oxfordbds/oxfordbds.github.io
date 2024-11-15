@@ -11,6 +11,9 @@ The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is an activist-rese
 
 [Archive of Changes](./archiveofchange.md).
 
+[Archive of Freedom of Information Requests](./archiveoffois.md).
+
+
 We stand in full solidarity with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). Please see our collective demands below:
 
 1. Disclose University-wide Assets
