@@ -15,7 +15,7 @@ Over the past year, the BDS Coalition had worked with the wider Oxford Universit
 
 The BDS Coalition and a coalition of members of the Oxford colleges have created a roadmap for change. This roadmap includes comprehensive steps colleges should take to increase transparency and divest from arms and Israeli crimes. 
 
-[A Roadmap for Oxford Colleges](https://oxfordbds.github.io/data/collegeroadmap.pdf).
+[A Roadmap for Oxford Colleges](data/collegeroadmap.pdf).
 
 We stand in full solidarity with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). Please see our collective demands below:
 
