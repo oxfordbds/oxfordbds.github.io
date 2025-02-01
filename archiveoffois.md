@@ -38,22 +38,23 @@ fund managers.
 Using the data provided by colleges on company-level investments and their
 endowment fund breakdown, we investigated the indirect investments colleges held.
 Each college has their own investment policy, portfolios, and method of disclosure:
-● For example, University College invests in 18 different funds and for their FOI
+- For example, University College invests in 18 different funds and for their FOI
 reply, the college provided scanned documents of each portfolio they had at the
 time of the request. To investigate this required manually going through 27
 pages of the document to look for specific companies and calculating the
 estimated value invested in them as provided.
-● Others were more straightforward, for example, All Souls College did not
+- Others were more straightforward, for example, All Souls College did not
 provide a portfolio, but extracted the estimated investments in specific
 companies from across their investment portfolios.
-● Likewise, Merton College provided a look through of their portfolio in an excel
+- Likewise, Merton College provided a look through of their portfolio in an excel
 sheet format.
-● Colleges such as New College and Queens College have partial investments in
+- Colleges such as New College and Queens College have partial investments in
 portfolios whose company-level holdings data is publicly available. In these
 cases, we used the number they provided on how much the College invested in
 total in these specific funds to calculate the College’s company-level holdings.
 For company-level holdings that required manual calculations, we ensured at least two
 others of our team double checked and verified these numbers.
+
 In our investigations, we specifically focused on how much each College invests in
 companies involved in two types of egregious activities:
 1. Commission of international crimes connected to Israel’s unlawful occupation,
