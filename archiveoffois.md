@@ -2,7 +2,7 @@ The University of Oxford and its Colleges jointly hold endowments over £8 billi
 
 The full extent of the indirect investments in such companies is much higher as most of the billions held by colleges managed by third-party companies, such as the Oxford University Endowment Management (OUEM), were not disclosed.
 
-Call for action - use this data!
+**Call for action - use this data!**
 
 [Archive of Freedom of Information Requests: Oxford college investments in arms companies](./archiveoffois_arms.md).
 
@@ -10,14 +10,14 @@ Call for action - use this data!
 
 In November, 2024 - the ICJP lodged a formal complaint with the Charity Commission against one of Oxford’s Colleges for holding over £1 million in investments in illegal Israeli settlements. If you discover that a particular college at Oxford University has investments which may violate their ethical obligations, feel free to send in a complaint to the Charity Commission.
 
-Call for action - file a complaint with the Charity Commission.
+**Call for action - file a complaint with the Charity Commission.**
 
-Call for action - File further FOI requests.
+**Call for action - File further FOI requests.**
 
 Don’t know if your college has egregious investments? Reach out to the BDS Research Coalition (bds.coalition.oxford@proton.me) to collaborate on further FOI requests to find out.
 
 
-FOI METHODS EXPLAINER 
+**BDS FOI METHODS EXPLAINER**
 
 From this FOI campaign, 2 Colleges did not respond to any of our requests, failing their
 statutory duty of responding to FOI requests within 20 working days.
