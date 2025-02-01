@@ -11,7 +11,7 @@ The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is an activist-rese
 
 Over the past year, the BDS Coalition had worked with the wider Oxford University community to help send over 150 Freedom of Information (FOI) requests for those seeking greater transparency from their institution. This included FOI requests on indirect investments to all 36 financially independent colleges of Oxford.
 
-[**Archive of Freedom of Information Requests**](./archiveoffois.md).
+**[Archive of Freedom of Information Requests](./archiveoffois.md).**
 
 The BDS Coalition and a coalition of members of the Oxford colleges have created a roadmap for change. This roadmap includes comprehensive steps colleges should take to increase transparency and divest from arms and Israeli crimes. 
 
