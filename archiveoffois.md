@@ -17,7 +17,7 @@ In November, 2024 - the ICJP lodged a formal complaint with the Charity Commissi
 Don’t know if your college has egregious investments? Reach out to the BDS Research Coalition (bds.coalition.oxford@proton.me) to collaborate on further FOI requests to find out.
 
 
-**BDS FOI METHODS EXPLAINER**
+<!-- **BDS FOI METHODS EXPLAINER**
 
 From this FOI campaign, 2 Colleges did not respond to any of our requests, failing their
 statutory duty of responding to FOI requests within 20 working days.
@@ -68,5 +68,5 @@ military technologies)
 To identify the specific companies that are involved in these two egregious activities,
 we refer to the databases listed below. If the company appears in any one of these
 databases, it should be deemed as a sufficient condition to warrant its inclusion on the
-exclusion list.
+exclusion list. --!>
 
