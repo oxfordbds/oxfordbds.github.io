@@ -68,5 +68,5 @@ military technologies)
 To identify the specific companies that are involved in these two egregious activities,
 we refer to the databases listed below. If the company appears in any one of these
 databases, it should be deemed as a sufficient condition to warrant its inclusion on the
-exclusion list. --!>
+exclusion list. -->
 
