@@ -28,6 +28,6 @@ We stand in full solidarity with the student-led [Oxford Action for Palestine (O
 
 
 
-The Primer on our demands to the University of Oxford should be visible in an embedded pdf below. If this does not work, please find the file here: [https://oxfordbds.github.io/data/primer.pdf](https://oxfordbds.github.io/data/primer.pdf)
+The Primer on our demands to the University of Oxford can be found here: [https://oxfordbds.github.io/data/primer.pdf](https://oxfordbds.github.io/data/primer.pdf)
 
 <!--- <embed src="https://oxfordbds.github.io/data/primer.pdf" width="500" height="1070" type="application/pdf">-->
