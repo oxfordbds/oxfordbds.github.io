@@ -18,13 +18,15 @@ The BDS Coalition and a coalition of members of the Oxford colleges have created
 **[A Roadmap for the University of Oxford](./collegeroadmap.pdf).**
 
 <details>
-<summary>Our collective demands to the Collegiate University</summary>
+<summary>**Our collective demands to the Collegiate University**</summary>
+  
 1. Disclose University-wide Assets
 2. Divest University-wide Assets 
 3. Overhaul Investment Policy
 4. Boycott Institutional Relationships
 5. Drop Barclays 
-6. Rebuild and Reinvest 
+6. Rebuild and Reinvest
+   
 We share these demands with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). The Primer on our demands to the University of Oxford can be found here: [https://oxfordbds.github.io/data/primer.pdf](https://oxfordbds.github.io/data/primer.pdf)
 </details>
 
