@@ -7,47 +7,24 @@ layout: default
 title: Home
 ---
 
-The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is an activist-research collective that is comprised of staff and students at the University of Oxford who are committed to Palestinian liberation. Our primary purpose is to investigate the Collegiate University’s ties to the Arms Trade and Israeli crimes against the Palestinian People, and campaign to sever these ties.
-<details>
-<summary>FAQ </summary>
-<details>
-<summary>FAQ 1</summary>
-more details
-</details>
+The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is an activist-research collective that is comprised of staff and students at the University of Oxford who are committed to Palestinian liberation. Our primary purpose is to investigate the Collegiate University’s ties to the Arms Trade and Israeli crimes against the Palestinian People, and campaign to sever these ties. Over the past year, the BDS Coalition had worked with the wider Oxford University community to develop shared collective demands for the Collegiate University, action roadmaps for Colleges and the University, and an archive of open research for current and future organisers. 
 
-<details>
-<summary>Faq 2</summary>
-much more details
-</details>
-<details>
-<summary>Faq 3</summary>
-still more details
-</details>
-<details>
-<summary>FAQ 4</summary>
-the end
-</details>
-</details>
+**[Archive of Open Research: Freedom of Information](./archiveoffois.md).**
 
-Over the past year, the BDS Coalition had worked with the wider Oxford University community to help send over 150 Freedom of Information (FOI) requests for those seeking greater transparency from their institution. This included FOI requests on indirect investments to all 36 financially independent colleges of Oxford.
-
-**[Archive of Freedom of Information Requests](./archiveoffois.md).**
-
-The BDS Coalition and a coalition of members of the Oxford colleges have created a roadmap for change. This roadmap includes comprehensive steps colleges should take to increase transparency and divest from arms and Israeli crimes. 
+The BDS Coalition and a coalition of members of the Oxford colleges have created a roadmaps for change. These roadmaps include comprehensive steps colleges and the central University should take to increase transparency and divest from arms and Israeli crimes. 
 
 **[A Roadmap for Oxford Colleges](./collegeroadmap.pdf).**
 
-We stand in full solidarity with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). Please see our collective demands below:
+**[A Roadmap for the University of Oxford](./uniroadmap.pdf).**
 
+<details>
+<summary>Our collective demands to the Collegiate University</summary>
 1. Disclose University-wide Assets
 2. Divest University-wide Assets 
 3. Overhaul Investment Policy
 4. Boycott Institutional Relationships
 5. Drop Barclays 
 6. Rebuild and Reinvest 
+We share these demands with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). The Primer on our demands to the University of Oxford can be found here: [https://oxfordbds.github.io/data/primer.pdf](https://oxfordbds.github.io/data/primer.pdf)
+</details>
 
-
-
-The Primer on our demands to the University of Oxford should be visible in an embedded pdf below. If this does not work, please find the file here: [https://oxfordbds.github.io/data/primer.pdf](https://oxfordbds.github.io/data/primer.pdf)
-
-<embed src="https://oxfordbds.github.io/data/primer.pdf" width="500" height="1070" type="application/pdf">
