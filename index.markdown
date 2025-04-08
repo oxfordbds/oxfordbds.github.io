@@ -15,7 +15,7 @@ The BDS Coalition and a coalition of members of the Oxford colleges have created
 
 **[A Roadmap for Oxford Colleges](./collegeroadmap.pdf).**
 
-**[A Roadmap for the University of Oxford](./uniroadmap.pdf).**
+**[A Roadmap for the University of Oxford](./collegeroadmap.pdf).**
 
 <details>
 <summary>Our collective demands to the Collegiate University</summary>
