@@ -18,7 +18,7 @@ The BDS Coalition and a coalition of members of the Oxford colleges have created
 **[A Roadmap for the University of Oxford](./collegeroadmap.pdf).**
 
 <details>
-<h4><summary><strong>Our collective demands to the Collegiate University<strong></summary><h4>
+<summary><h4>Our collective demands to the Collegiate University<h4></summary>
   
 1. Disclose University-wide Assets
 2. Divest University-wide Assets 
