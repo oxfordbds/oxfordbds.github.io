@@ -1,7 +1,7 @@
 
 **Our BDS Pledge**
 
-<details><summary><strong><a>Our collective demands to the Collegiate University</a></strong></summary>
+<p><details><summary><strong><a>Oxford Staff Commit to the BDS Movement for Palestine</a></strong></summary>
   
 1. Disclose University-wide Assets
 2. Divest University-wide Assets 
@@ -19,59 +19,55 @@ In November, 2024 - the ICJP lodged a formal complaint with the Charity Commissi
 Don’t know if your college has egregious investments? Reach out to the BDS Research Coalition (bds.coalition.oxford@proton.me) to collaborate on further FOI requests to find out.
 
 
-</details>
+</details></p>
 
 
-<!-- **BDS FOI METHODS EXPLAINER**
+<p><details><summary><strong><a>Sign the Pledge</a></strong></summary><p>
 
-From this FOI campaign, 2 Colleges did not respond to any of our requests, failing their
-statutory duty of responding to FOI requests within 20 working days.
 
-1. Corpus Christi College
-2. Magdalen College
+[Link to pledge](https://oxfordbds.github.io/data/primer.pdf)
 
-16 colleges either outright refused to disclose any information on indirect investments
-or did not disclose specific numbers on company-level data for their main pools of
-Investments.
 
-18 colleges provided information about their company-level holdings for at least some
-of their indirect investments, by either providing names of funds they invest in that
-have publicly accessible portfolios (along with the amount they invest in them), or by
-providing PDFs of portfolios they invest in, or look-throughs they received from their
-fund managers.
+</p></details></p>
 
-Using the data provided by colleges on company-level investments and their
-endowment fund breakdown, we investigated the indirect investments colleges held.
-Each college has their own investment policy, portfolios, and method of disclosure:
-- For example, University College invests in 18 different funds and for their FOI
-reply, the college provided scanned documents of each portfolio they had at the
-time of the request. To investigate this required manually going through 27
-pages of the document to look for specific companies and calculating the
-estimated value invested in them as provided.
-- Others were more straightforward, for example, All Souls College did not
-provide a portfolio, but extracted the estimated investments in specific
-companies from across their investment portfolios.
-- Likewise, Merton College provided a look through of their portfolio in an excel
-sheet format.
-- Colleges such as New College and Queens College have partial investments in
-portfolios whose company-level holdings data is publicly available. In these
-cases, we used the number they provided on how much the College invested in
-total in these specific funds to calculate the College’s company-level holdings.
-For company-level holdings that required manual calculations, we ensured at least two
-others of our team double checked and verified these numbers.
 
-In our investigations, we specifically focused on how much each College invests in
-companies involved in two types of egregious activities:
-1. Commission of international crimes connected to Israel’s unlawful occupation,
-racial segregation and apartheid regime in the occupied Palestinian territory
-(oPt), by:
-1.1. Supporting the Israeli military;
-1.2. Supporting illegal Israeli settlements; and/or
-1.3. Sustaining the apartheid regime.
-2. Manufacture and/or proliferation of arms and dual use products (including
-military technologies)
-To identify the specific companies that are involved in these two egregious activities,
-we refer to the databases listed below. If the company appears in any one of these
-databases, it should be deemed as a sufficient condition to warrant its inclusion on the
-exclusion list. -->
+<p><details><summary><strong><a>FAQ</a></strong></summary>
+
+
+  
+<p><details><summary><strong><a>Question 1</a></strong></summary><p>
+
+
+>- some text
+
+
+</p></details></p>
+
+<p><details><summary><strong><a>Question 2</a></strong></summary><p>
+
+
+- `some text`
+
+
+</p></details></p>
+
+<p><details><summary><strong><a>Question 3</a></strong></summary><p>
+
+
+ - some text
+
+
+</p></details></p>
+
+<p><details><summary><strong><a>Question 4</a></strong></summary><p>
+
+
+ - some text
+
+
+</p></details></p>
+
+
+</details></p>
+
 
