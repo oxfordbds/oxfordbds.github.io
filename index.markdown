@@ -9,13 +9,13 @@ title: Home
 
 The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is an activist-research collective that is comprised of staff and students at the University of Oxford who are committed to Palestinian liberation.
 
-**[Archive of Open Research](./openres.md).**
+**[Archive of Open Research](./open_research.md)**
 
-**[Roadmaps for Change](./roadmaps.md).**
+**[Roadmaps for Change](./roadmaps.md)**
 
-**[Ethical Investment Review: EIRRS](./eirrs.md).**
+**[Ethical Investment Review: EIRRS](./ethical_investments.md)**
 
-**[Staff BDS Pledge](./bds_pledge.md).**
+**[Staff BDS Pledge](./bds_pledge.md)**
 
 
 <!--- Our primary purpose is to investigate the Collegiate University’s ties to the Arms Trade and Israeli crimes against the Palestinian People, and campaign to sever these ties. Over the past year, the BDS Coalition had worked with the wider Oxford University community to develop shared collective demands for the Collegiate University, action roadmaps for Colleges and the University, and an archive of open research for current and future organisers. 

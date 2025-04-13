@@ -1,8 +1,16 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-**Our BDS Pledge**
 
-<p><details><summary><strong><a>Oxford Staff Commit to the BDS Movement for Palestine</a></strong></summary>
+layout: post_wstyle
+title: BDS Pledge
+---
+
+<div class="text-with-frame">
+<p><details><summary><strong><a>University of Oxford Staff Pledge <br> to the BDS Movement for Palestine</a></strong></summary>
   
+
 1. Disclose University-wide Assets
 2. Divest University-wide Assets 
 3. Overhaul Investment Policy
@@ -20,8 +28,10 @@ Don’t know if your college has egregious investments? Reach out to the BDS Res
 
 
 </details></p>
+</div><p>
 
 
+<div class="text-with-frame">
 <p><details><summary><strong><a>Sign the Pledge</a></strong></summary><p>
 
 
@@ -29,16 +39,16 @@ Don’t know if your college has egregious investments? Reach out to the BDS Res
 
 
 </p></details></p>
+</div><p>
 
-
-<p><details><summary><strong><a>FAQ</a></strong></summary>
-
+<div class="text-with-frame">
+<p><details><summary><strong><a>FAQs</a></strong></summary>
 
   
 <p><details><summary><strong><a>Question 1</a></strong></summary><p>
 
 
->- some text
+ - some text
 
 
 </p></details></p>
@@ -46,8 +56,7 @@ Don’t know if your college has egregious investments? Reach out to the BDS Res
 <p><details><summary><strong><a>Question 2</a></strong></summary><p>
 
 
-- `some text`
-
+- some text
 
 </p></details></p>
 
@@ -67,7 +76,18 @@ Don’t know if your college has egregious investments? Reach out to the BDS Res
 
 </p></details></p>
 
-
 </details></p>
+</div><p>
+
+<div class="text-with-frame">
+<p><details><summary><strong><a>Other University Pledges</a></strong></summary><p>
+
+
+[Link to pledge](https://oxfordbds.github.io/data/primer.pdf)
+
+
+</p></details></p>
+</div><p>
+
 
 

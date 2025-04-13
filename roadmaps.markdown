@@ -1,44 +1,23 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,minimum-scale =1">
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=2e74fe6f11a573ba3f0583c5b605a9f9e2652729">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    <style>
-      body {
-        background-color: #fffaec;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="http://localhost:4000/">Oxford BDS Coalition</a></h1>
 
-        
-          <img src="/assets/img/OxBDSCo_circleblack.png" alt="Logo" />
-        
+layout: default
+title: Home
+---
 
-        <p></p>
+The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is an activist-research collective that is comprised of staff and students at the University of Oxford who are committed to Palestinian liberation.
 
-        
+**[Archive of Open Research ](./openres.md)**
 
-        <!--  -->
+**[Roadmaps for Change ](./roadmaps.md)**
 
-        
-      </header>
-      <section>
+**[Ethical Investment Review: EIRRS ](./eirrs.md)**
 
-      <p>The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is an activist-research collective that is comprised of staff and students at the University of Oxford who are committed to Palestinian liberation.</p>
-<p><strong><a href="./open_research.md">Archive of Open Research</a></strong></p>
-<p><strong><a href="./roadmaps.md">Roadmaps for Change</a></strong></p>
-<p><strong><a href="./ethical_investments.md">Ethical Investment Review: EIRRS</a></strong></p>
-<p><strong><a href="/bds_pledge.html">Staff BDS Pledge</a></strong></p>
+**[Staff BDS Pledge ](./bds_pledge.md)**
+
+
 <!--- Our primary purpose is to investigate the Collegiate University’s ties to the Arms Trade and Israeli crimes against the Palestinian People, and campaign to sever these ties. Over the past year, the BDS Coalition had worked with the wider Oxford University community to develop shared collective demands for the Collegiate University, action roadmaps for Colleges and the University, and an archive of open research for current and future organisers. 
 
 
@@ -48,15 +27,15 @@
 <details>
 <summary>
 
-**[Archive of Open Research: Freedom of Information](/archiveoffois.html).**
+**[Archive of Open Research: Freedom of Information](./archiveoffois.md).**
 
 </summary>
 </details>
 The BDS Coalition and a coalition of members of the Oxford colleges have created a roadmaps for change. These roadmaps include comprehensive steps colleges and the central University should take to increase transparency and divest from arms and Israeli crimes. 
 
-**[A Roadmap for Oxford Colleges](/collegeroadmap.pdf).**
+**[A Roadmap for Oxford Colleges](./collegeroadmap.pdf).**
 
-**[A Roadmap for the University of Oxford](/collegeroadmap.pdf).**
+**[A Roadmap for the University of Oxford](./collegeroadmap.pdf).**
 
 <p><details><summary><strong><a href="./collegeroadmap.pdf">A Roadmap for the University of Oxford</a></strong></summary>
 </details></p>
@@ -94,14 +73,3 @@ We share these demands with the student-led [Oxford Action for Palestine (OA4P) 
 </details>
 
 -->
-
-
-      </section>
-      <footer>
-        
-        <p><small>Contact Oxford BDS Coalition <a href=mailto:bds.coalition.oxford@proton.me>bds.coalition.oxford@proton.me</a></small></p>
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-  </body>
-</html>

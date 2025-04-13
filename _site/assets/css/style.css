@@ -217,3 +217,5 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 body h1 { color: #01796f; font-size: 28px; }
 body a { color: #01796f; text-decoration: none; }
 body h3, body h4, body h5, body h6 { color: #01796f; }
+
+.text-with-frame { border: 2px solid #01796f; /* Adjust thickness and color as needed */ padding: 10px; /* Add some space between the text and the border */ }
