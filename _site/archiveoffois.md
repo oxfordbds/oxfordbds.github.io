@@ -14,7 +14,7 @@ In November, 2024 - the ICJP lodged a formal complaint with the Charity Commissi
 
 **Call for action - File further FOI requests.**
 
-Don’t know if your college has egregious investments? Reach out to the BDS Research Coalition (bds.coalition.oxford@proton.me) to collaborate on further FOI requests to find out.
+Don’t know if your college has egregious investments? [Please contact](mailto:bds.coalition.oxford@proton.me) the BDS Research Coalition to collaborate on further FOI requests to find out.
 
 
 <!-- **BDS FOI METHODS EXPLAINER**
