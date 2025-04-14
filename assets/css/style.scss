@@ -26,7 +26,12 @@ body{
       }
 }
 
-.text-with-frame {
+.text-with-frame-red {
+  border: 2px solid #ab010f; /* Adjust thickness and color as needed */
+  padding: 10px; /* Add some space between the text and the border */
+}
+
+.text-with-frame-green {
   border: 2px solid #01796f; /* Adjust thickness and color as needed */
   padding: 10px; /* Add some space between the text and the border */
 }

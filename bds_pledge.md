@@ -7,7 +7,7 @@ layout: post_bdspledge
 title: BDS Pledge
 ---
 
-<div class="text-with-frame">
+<div class="text-with-frame-red">
 <p><details><summary><strong><a>University of Oxford Staff and Research Students Commit to the BDS Movement for Palestine</a></strong></summary>
   
 <br>
@@ -116,11 +116,11 @@ NOTES:
 </div><p>
 
 
-<div class="text-with-frame">
+<div class="text-with-frame-red">
 <p><details><summary><strong><a>Sign the Pledge</a></strong></summary><p>
 
 
-[Link to sign](https://docs.google.com/forms/d/e/1FAIpQLSfV2CT7kqmYOgrCG3UjRGT9V4ZvvFou9_NAY1OoWaljBxkfqQ/viewform?fbzx=337549495575692648)
+**[Link to sign](https://docs.google.com/forms/d/e/1FAIpQLSfV2CT7kqmYOgrCG3UjRGT9V4ZvvFou9_NAY1OoWaljBxkfqQ/viewform?fbzx=337549495575692648)**
 
 PRIVACY NOTICE: This information is gathered by Oxford Staff BDS and will not be shared with any other individuals or groups. All data will be kept in accordance with GDPR restrictions and will be destroyed after one year. To update your information or request that it be erased, write to oxfordstaffbds@gmail.com. 
 
@@ -132,7 +132,7 @@ If you would like to support this pledge as an organisation, please get in touch
 </p></details></p>
 </div><p>
 
-<div class="text-with-frame">
+<div class="text-with-frame-red">
 <p><details><summary><strong><a>FAQs</a></strong></summary>
 
   
@@ -170,7 +170,7 @@ If you would like to support this pledge as an organisation, please get in touch
 </details></p>
 </div><p>
 
-<div class="text-with-frame">
+<div class="text-with-frame-red">
 <p><details><summary><strong><a>Other University Pledges</a></strong></summary><p>
 
 

@@ -3,47 +3,23 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 
-layout: default
-title: Home
+layout: post_roadmaps
+title: Roadmaps for change
 ---
 
-The Oxford Boycott, Divestment and Sanctions (BDS) Coalition is an activist-research collective that is comprised of staff and students at the University of Oxford who are committed to Palestinian liberation.
+The BDS Coalition and a coalition of members of the Oxford colleges have created roadmaps for change to support negotiations and organising in our community. These roadmaps include comprehensive steps colleges should take to increase transparency and divest from arms and Israeli crimes and respond to our collective demands to the Collegiate University. 
 
-**[Archive of Open Research ](./openres.md)**
+**[A Roadmap for Oxford Colleges](./collegeroadmap.pdf)**
 
-**[Roadmaps for Change ](./roadmaps.md)**
+**[A Roadmap for the University of Oxford](./collegeroadmap.pdf)**
 
-**[Ethical Investment Review: EIRRS ](./eirrs.md)**
+*These roadmaps are being updated as information is collected and as changes are made at respective institutions. If you have information that is relevant and should be added to these roadmaps, please [contact us](mailto:bds.coalition.oxford@proton.me) to collaborate.*
 
-**[Staff BDS Pledge ](./bds_pledge.md)**
-
-
-<!--- Our primary purpose is to investigate the Collegiate University’s ties to the Arms Trade and Israeli crimes against the Palestinian People, and campaign to sever these ties. Over the past year, the BDS Coalition had worked with the wider Oxford University community to develop shared collective demands for the Collegiate University, action roadmaps for Colleges and the University, and an archive of open research for current and future organisers. 
-
-
-<p><details><summary><strong><a href="./archiveoffois.md">Archive of Open Research: Freedom of Information</a></strong></summary>
-</details></p>
-
-<details>
-<summary>
-
-**[Archive of Open Research: Freedom of Information](./archiveoffois.md).**
-
-</summary>
-</details>
-The BDS Coalition and a coalition of members of the Oxford colleges have created a roadmaps for change. These roadmaps include comprehensive steps colleges and the central University should take to increase transparency and divest from arms and Israeli crimes. 
-
-**[A Roadmap for Oxford Colleges](./collegeroadmap.pdf).**
-
-**[A Roadmap for the University of Oxford](./collegeroadmap.pdf).**
-
-<p><details><summary><strong><a href="./collegeroadmap.pdf">A Roadmap for the University of Oxford</a></strong></summary>
-</details></p>
-
-
-
+<div class="text-with-frame-green">
 <details><summary><strong><a>Our collective demands to the Collegiate University</a></strong></summary>
-  
+  <br>
+
+
 1. Disclose University-wide Assets
 2. Divest University-wide Assets 
 3. Overhaul Investment Policy
@@ -51,25 +27,7 @@ The BDS Coalition and a coalition of members of the Oxford colleges have created
 5. Drop Barclays 
 6. Rebuild and Reinvest
    
-We share these demands with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). The Primer on our demands to the University of Oxford can be found here: [https://oxfordbds.github.io/data/primer.pdf](https://oxfordbds.github.io/data/primer.pdf)
+We share these demands with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). More information and motiviation for these demands can be found here: **[Oxford BDS Demands: A Primer](https://oxfordbds.github.io/data/primer.pdf)**.
 
 </details>
-
-<details><summary>
-
-**[Our collective demands to the Collegiate University]()**
-
-</summary>
-  
-1. Disclose University-wide Assets
-2. Divest University-wide Assets 
-3. Overhaul Investment Policy
-4. Boycott Institutional Relationships
-5. Drop Barclays 
-6. Rebuild and Reinvest
-   
-We share these demands with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). The Primer on our demands to the University of Oxford can be found here: [https://oxfordbds.github.io/data/primer.pdf](https://oxfordbds.github.io/data/primer.pdf)
-
-</details>
-
--->
+</div>
