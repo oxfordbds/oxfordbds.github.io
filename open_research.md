@@ -24,7 +24,7 @@ The Oxford BDS coaltion responded to the November 2024 OHCHR [‘Call for input 
 
 Over the past year, the BDS Coalition has sent over 150 Freedom of Information (FOI) requests seeking greater institutional transparency. This included FOI requests on investments to all 36 financially independent colleges of Oxford. *We are continuing to update this archive.*
 
-**[Freedom of Information Requests](./archiveoffois.md)**
+**[Archive of Freedom of Information Requests](./archiveoffois.md)**
 
 
 </div><p>

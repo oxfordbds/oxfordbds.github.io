@@ -8,7 +8,7 @@ title: BDS Pledge
 ---
 
 <div class="text-with-frame-red">
-<p><details><summary><strong><a>University of Oxford Staff and Research Students Commit to the BDS Movement for Palestine</a></strong></summary>
+<p><details><summary><strong><h3>University of Oxford Staff and Research Students Commit to the BDS Movement for Palestine</h3></strong></summary>
   
 <br>
 
@@ -117,10 +117,14 @@ NOTES:
 
 
 <div class="text-with-frame-red">
-<p><details><summary><strong><a>Sign the Pledge</a></strong></summary><p>
+<p><details><summary><strong><h3>Sign the Pledge</h3></strong></summary><p>
 
+<h3>
 
-**[Link to sign](https://docs.google.com/forms/d/e/1FAIpQLSfV2CT7kqmYOgrCG3UjRGT9V4ZvvFou9_NAY1OoWaljBxkfqQ/viewform?fbzx=337549495575692648)**
+&nbsp; **[<span class="red"> Link to sign </span>](https://docs.google.com/forms/d/e/1FAIpQLSfV2CT7kqmYOgrCG3UjRGT9V4ZvvFou9_NAY1OoWaljBxkfqQ/viewform?fbzx=337549495575692648)**
+
+</h3>
+
 
 PRIVACY NOTICE: This information is gathered by Oxford Staff BDS and will not be shared with any other individuals or groups. All data will be kept in accordance with GDPR restrictions and will be destroyed after one year. To update your information or request that it be erased, write to oxfordstaffbds@gmail.com. 
 
@@ -133,7 +137,7 @@ If you would like to support this pledge as an organisation, please get in touch
 </div><p>
 
 <div class="text-with-frame-red">
-<p><details><summary><strong><a>FAQs</a></strong></summary>
+<p><details><summary><strong><h3>FAQs</h3></strong></summary>
 
   
 <p><details><summary><strong><a>Question 1</a></strong></summary><p>
@@ -171,10 +175,10 @@ If you would like to support this pledge as an organisation, please get in touch
 </div><p>
 
 <div class="text-with-frame-red">
-<p><details><summary><strong><a>Other University Pledges</a></strong></summary><p>
+<p><details><summary><strong><h3>Other University Pledges</h3></strong></summary><p>
 
 
-[Link to pledge](https://oxfordbds.github.io/data/primer.pdf)
+Insitutions and **[links to pledges](https://docs.google.com/forms/d/e/1FAIpQLSfV2CT7kqmYOgrCG3UjRGT9V4ZvvFou9_NAY1OoWaljBxkfqQ/viewform?fbzx=337549495575692648)**
 
 
 </p></details></p>
