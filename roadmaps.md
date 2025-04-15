@@ -11,7 +11,7 @@ The BDS Coalition and a coalition of members of the Oxford colleges have created
 
 **[A Roadmap for Oxford Colleges](./collegeroadmap.pdf)**
 
-**[A Roadmap for the University of Oxford](./collegeroadmap.pdf)**
+**[A Roadmap for the University of Oxford](./universityroadmap.pdf)**
 
 *These roadmaps are being updated as information is collected and as changes are made at respective institutions. If you have information that is relevant and should be added to these roadmaps, please [contact us](mailto:bds.coalition.oxford@proton.me) to collaborate.*
 
@@ -27,7 +27,7 @@ The BDS Coalition and a coalition of members of the Oxford colleges have created
 5. Drop Barclays 
 6. Rebuild and Reinvest
    
-We share these demands with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). More information and motiviation for these demands can be found here: **[Oxford BDS Demands: A Primer](https://oxfordbds.github.io/data/primer.pdf)**.
+We share these demands with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). More information and motiviation for these demands can be found here - **[Oxford BDS Demands: A Primer](https://oxfordbds.github.io/data/primer.pdf)**.
 
 </details>
 </div>

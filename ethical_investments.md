@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 
-layout: default
+layout: post_eirrs
 title: EIRRS
 ---
+
 
 In Michaelmas term 2024 University of Oxford launched an expedited review into its investment policy through the **[Ethical Investments Representation Review Sub-committee](https://governance.admin.ox.ac.uk/ethical-investment-representations-review-subcommittee/ethical-investments-review)**. This review process was open to all members of the Collegiate University, and closed in February 2025. The University's published TOR for this review can be found **[here](https://unioxfordnexus.sharepoint.com/sites/ADMN-UASMosaicDocumentHub/Governance/Forms/AllItems.aspx?id=%2Fsites%2FADMN%2DUASMosaicDocumentHub%2FGovernance%2FEIRRS%20Review%20%2D%20terms%20of%20reference%2Epdf&parent=%2Fsites%2FADMN%2DUASMosaicDocumentHub%2FGovernance)**. Based on this review, the University has said that they will respond in Trinity term 2025. 
 
