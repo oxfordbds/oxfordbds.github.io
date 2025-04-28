@@ -1,3 +1,12 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+
+layout: default
+title: FOI Archive
+---
+
 The University of Oxford and its Colleges jointly hold endowments over £8 billion and attract millions of pounds each year in research grants and donations. The BDS Coalition, in cooperation with the wider Oxford University community have sent over 150 Freedom of Information (FOI) requests. This included FOI requests on indirect investments to all 36 financially independent colleges of Oxford.
 
 The full extent of the indirect investments in such companies is much higher as most of the billions held by colleges managed by third-party companies, such as the Oxford University Endowment Management (OUEM), were not disclosed.
