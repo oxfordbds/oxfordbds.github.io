@@ -217,8 +217,10 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 body h1 { color: #01796f; font-size: 28px; }
 body a { color: #01796f; text-decoration: none; }
 body a:link { color: #01796f; text-decoration: none; }
+body a:note { color: #727272; }
 body a:hover { color: black; text-decoration: none; }
-body h3, body h4, body h5, body h6 { color: #01796f; }
+body h2, body h3, body h5, body h6 { color: #01796f; }
+body h4 { color: #fffaec; }
 
 .red { /*color: #ab010f */ color: #c70212; }
 
@@ -227,3 +229,7 @@ body h3, body h4, body h5, body h6 { color: #01796f; }
 .text-with-frame-green { border: 2px solid #01796f; /* Adjust thickness and color as needed */ padding: 10px; /* Add some space between the text and the border */ }
 
 .box { width: 200px; height: 100px; border: 1px solid black; padding: 10px; margin: 10px; }
+
+button { background-color: #c70212; /* Green */ vertical-align: middle; padding: 2em 1em 1em 1em; line-height: 0px; text-align: center; text-decoration: none; display: inline-block; font-size: 20px; border-radius: 4px; font-family: 'Noto Sans'; border: none; }
+
+.button1 { background-color: #01796f; /* Green */ vertical-align: middle; padding: 1.25em 0.5em 0.5em 0.5em; line-height: 0px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 4px; font-family: 'Noto Sans'; border: none; }

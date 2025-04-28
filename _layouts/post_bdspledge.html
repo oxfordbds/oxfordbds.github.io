@@ -18,8 +18,14 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}"> Oxford University BDS Staff Pledge </a></h1>
+        
+        <!-- <h2>Oxford BDS Staff Pledge</h2> -->
 
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfV2CT7kqmYOgrCG3UjRGT9V4ZvvFou9_NAY1OoWaljBxkfqQ/viewform?fbzx=337549495575692648">
+          <button><h4>Sign the pledge</h4></button>
+        </a>
+
+        
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -45,8 +51,9 @@
       </section>
       <footer>
        
-        <a href="{{ "/" | absolute_url }}" ><img src="assets/img/OxBDSCo_whitelogo.png" alt="Logo"  width=50% height=50%/></a>
+        <a href="{{ "/" | absolute_url }}" ><img src="assets/img/OxBDSCo_whitelogo.png" alt="Logo"  width=60% height=60%/></a>
        
+
 
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
