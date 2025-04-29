@@ -4,7 +4,7 @@
 
 
 layout: default
-title: Home
+title: Oxford BDS Coalition
 ---
 
 The **Oxford Boycott, Divestment and Sanctions (BDS) Coalition** is an activist-research collective that is comprised of staff and students at the University of Oxford who are committed to Palestinian liberation.
