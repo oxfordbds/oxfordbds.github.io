@@ -22,7 +22,7 @@ title: Oxford BDS Coalition
 author: Oxford BDS Coalition
 tagline: Oxford BDS Coalition
 email: bds.coalition.oxford@proton.me 
-#description: Oxford BDS Coalition
+description: Oxford BDS Coalition
 #>- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oxfordbds.github.io" # the base hostname & protocol for your site, e.g. http://example.com
