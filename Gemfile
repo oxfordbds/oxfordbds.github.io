@@ -39,3 +39,5 @@ gem "webrick", "~> 1.8"
 # TODO: Remove when this gets fixed in Jekyll
 gem "csv"
 gem "base64"
+
+gem 'jekyll-seo-tag'
