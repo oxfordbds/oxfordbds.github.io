@@ -234,4 +234,4 @@ button { background-color: #c70212; /* Green */ vertical-align: middle; padding:
 
 .button1 { background-color: #01796f; /* Green */ vertical-align: middle; padding: 1.25em 0.5em 0.5em 0.5em; line-height: 0px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 4px; font-family: 'Noto Sans'; border: none; }
 
-footer { bottom: 0; }
+footer { bottom: 0; width: 200px; }
