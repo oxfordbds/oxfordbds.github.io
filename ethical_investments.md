@@ -14,4 +14,4 @@ In Michaelmas term 2024 University of Oxford launched an expedited review into i
 
 If you submitted to the EIRRS review please **[fill in our survey](https://docs.google.com/forms/d/e/1FAIpQLScmF-eOSWLNn_GmzQIid9JRscORFrBDCE_omxnFYt8-yKDxfw/viewform?usp=sharing)**.
 
-*We will aggregate and update results from the survey here through April 2025.*
+*We will aggregate and update results from the survey here through May 2025.*
