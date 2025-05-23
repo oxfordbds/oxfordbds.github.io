@@ -142,7 +142,7 @@ If you have any questions about the pledge, please email us at oxfordstaffbds@gm
 <p><details><summary><a>Who can sign the pledge?</a></summary><p>
 
 
- - All staff are invited to sign the pledge committing to the BDS movement for Palestine. We understand staff to mean anyone employed by the university or its colleges, in any capacity, including postgraduate researchers* and (emeritus) professors.
+ - All staff are invited to sign the pledge committing to the BDS movement for Palestine. We understand staff to mean anyone working at the university or its colleges, in any capacity, including postgraduate researchers* and (emeritus) professors.
 
 
     *As per [UCU’s national policy](https://www.ucu.org.uk/PGRs-as-staff), we recognise those who are enrolled on postgraduate research programmes as members of staff (notwithstanding their legal status in relation to industrial action). This includes all DPhil students and Master's students on research programmes, but not Master's students enrolled on taught courses.
