@@ -16,7 +16,7 @@ If you would like to submit data or reports to contribute to this archive please
 
 The Oxford BDS coaltion responded to the November 2024 OHCHR [‘Call for input for the report of the Special Rapporteur on the occupied Palestinian territory to the Human Rights Council’](https://www.ohchr.org/en/calls-for-input/2024/call-input-report-special-rapporteur-occupied-palestinian-territory-human) with a submission based on research into the University of Oxford's investments, research funding, and donations. 
 
-**[Oxford BDS Coalition OHCHR Submission](data/Oxford_OHCHR.pdf)**
+### **[Oxford BDS Coalition OHCHR Submission](data/Oxford_OHCHR.pdf)**
 
 </div><p>
 
@@ -24,7 +24,7 @@ The Oxford BDS coaltion responded to the November 2024 OHCHR [‘Call for input 
 
 Over the past year, the BDS Coalition has sent over 150 Freedom of Information (FOI) requests seeking greater institutional transparency. This included FOI requests on investments to all 36 financially independent colleges of Oxford. *We are continuing to update this archive.*
 
-**[Archive of Freedom of Information Requests](./archiveoffois.md)**
+### **[Archive of Freedom of Information Requests](./archiveoffois.md)**
 
 
 </div><p>

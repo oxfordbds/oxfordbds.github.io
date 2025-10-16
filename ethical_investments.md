@@ -48,4 +48,6 @@ If you submitted to the EIRRS review please **[fill in our survey](https://docs.
 
 **[St Anne’s College Junior Common Room Submission](/data/EIRRS/AnnesEIRRSsubmission.pdf)**
 
+**[Oxford Action for Palestine Submission](/data/EIRRS/OA4PSubmission.pdf)**
+
 </div>
