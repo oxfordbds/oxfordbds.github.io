@@ -34,6 +34,7 @@ body{
       h4 {
         color: #fffaec  ;
       }
+    
 }
 
 .red {
@@ -108,7 +109,31 @@ button {
   // margin-top: 60px
 
 
-footer {
-  bottom: 0;
-  width: 200px
+footer.index {
+//position:bottom; 
+//top:40%; 
+height:100px;/* height of the footer */
+width:200px;
+//margin-top: 80%;
+display: flex;
+flex-direction: column;  
+bottom: 0; 
 }
+
+footer.bds {
+  bottom: 0;
+  width: 200px;
+  max-height: 500px;
+}
+
+header {
+  z-index:20;
+  background-color:#fffaec;
+}
+
+
+//content {
+//margin-bottom:800px;
+//margin-top:1000px;
+//clear: both;
+//}
