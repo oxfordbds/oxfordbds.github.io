@@ -22,29 +22,30 @@
   <body>
     <div class="wrapper">
       <header>
-        
-        <!-- <h2>Oxford BDS Staff Pledge</h2> -->
+        <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>-->
 
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfV2CT7kqmYOgrCG3UjRGT9V4ZvvFou9_NAY1OoWaljBxkfqQ/viewform?fbzx=337549495575692648">
-          <button><h4>Sign the pledge</h4></button>
-        </a>
-        <br>
-        <br>
-        
+        {% if site.logo %}
+          <!-- <img src="{{site.logo | relative_url}}" alt="Logo" width=100% height=100%/> -->
+          <a href="{{ "/" | absolute_url }}" ><img src="assets/img/OxBDSCo_circleblack.png" alt="Logo"  width=100% height=100%/></a>
 
-       
-
-       <!-- <a><img src="assets/img/Oct14BDS.jpeg" width=100% height=100%/></a> -->
-      
-      
-         
-          
-        
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
+
+        <p>
+        The <b style="color:black; font-size:16px;">Oxford Boycott, Divestment and Sanctions (BDS) Coalition</b> is an activist-research collective that is comprised of staff and students at the University of Oxford who are committed to Palestinian liberation.
+
+        <a href="/open_research.html"><h2>Archive of Open Research</h2></a>
+
+        <a href="/roadmaps.html"><h2>Roadmaps for Change</h2></a>
+
+        <a href="/ethical_investments.html"><h2>University Ethical Investment Review: EIRRS</h2></a>
+
+        </p>
+
+        <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
+
+        <!-- {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}-->
 
         <!-- {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -64,14 +65,6 @@
 
       </section>
       <footer>
-       <br>
-        
-        <a><img src="assets/img/OWJ.jpg" alt="Logo"  width=40% height=40%/></a> &nbsp; <a><img src="assets/img/Oxunison.png" alt="Logo"  width=40% height=40%/></a>
-        &nbsp; <a><img src="assets/img/OxUCUlogo.jpg" alt="Logo"  width=84% height=84%/></a>
-        &nbsp; <a href="{{ "/" | absolute_url }}" ><img src="assets/img/OxBDSCo_whitelogo.png" alt="Logo"  width=84% height=84%/></a>
-       
-
-
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}

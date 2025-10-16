@@ -9,14 +9,14 @@ title: Roadmaps for change
 
 The BDS Coalition and a coalition of members of the Oxford colleges have created roadmaps for change to support negotiations and organising in our community. These roadmaps include comprehensive steps colleges should take to increase transparency and divest from arms and Israeli crimes and respond to our collective demands to the Collegiate University. 
 
-**[A Roadmap for Oxford Colleges](data/collegeroadmap.pdf)**
+### **[A Roadmap for Oxford Colleges](data/collegeroadmap.pdf)**
 
-**[A Roadmap for the University of Oxford](data/universityroadmap.pdf)**
+### **[A Roadmap for the University of Oxford](data/universityroadmap.pdf)**
 
 *These roadmaps are being updated as information is collected and as changes are made at respective institutions. If you have information that is relevant and should be added to these roadmaps, please [contact us](mailto:bds.coalition.oxford@proton.me) to collaborate.*
 
 <div class="text-with-frame-green">
-<details><summary><strong><a>Our collective demands to the Collegiate University</a></strong></summary>
+<strong><a>Our collective demands to the Collegiate University</a></strong>
   <br>
 
 
@@ -29,5 +29,5 @@ The BDS Coalition and a coalition of members of the Oxford colleges have created
    
 We share these demands with the student-led [Oxford Action for Palestine (OA4P) Solidarity Encampment](https://linktr.ee/oxact4pal). More information and motiviation for these demands can be found here - **[Oxford BDS Demands: A Primer](https://oxfordbds.github.io/data/primer.pdf)**.
 
-</details>
+
 </div>

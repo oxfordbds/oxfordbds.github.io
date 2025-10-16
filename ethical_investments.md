@@ -14,4 +14,38 @@ In Michaelmas term 2024 University of Oxford launched an expedited review into i
 
 If you submitted to the EIRRS review please **[fill in our survey](https://docs.google.com/forms/d/e/1FAIpQLScmF-eOSWLNn_GmzQIid9JRscORFrBDCE_omxnFYt8-yKDxfw/viewform?usp=sharing)**.
 
-*We will aggregate and update results from the survey here through May 2025.*
+<!-- *We will aggregate and update results from the survey here through May 2025.* -->
+
+## Submissions shared with<br>Oxford BDS Coalition 
+
+<div class="text-with-frame-red">
+
+**[Congregation Staff Submission](/data/EIRRS/EIRRS_Review_Submission_Congregation.pdf)**
+<br>
+*Find more details on University of Oxford's Congregation [here](https://governance.admin.ox.ac.uk/legislation/statute-iv-congregation#collapse1381326)*
+
+**[Oxford University and College Union Submission](/data/EIRRS/UCU_EIRRS_submit.pdf)**
+<br>
+*Find more details on the University of Oxford branch of UCU [here](https://oxforducu.org.uk)*
+
+**[Oxford Students' Union Submission](/data/EIRRS/SU-EIRRS-Submission-Final.pdf)**
+<br>
+*Report prepared using 87 response to a survey prepared by [Oxford SU](https://www.oxfordsu.org)*
+
+**[Oxford Palestine Society Submission](/data/EIRRS/PalSocEIRRSRepresentation.pdf)**
+<br>
+*Find out more about Oxford PalSoc [here](https://www.instagram.com/oxfordpalsoc)*
+
+**[Social Sciences Division Submission](/data/EIRRS/SocialSciencesDivisionEIRRSSubmission.pdf)**
+<br>
+*A submission by concerned students and faculty across the University of Oxford Social Sciences Division*
+
+**[Oxford Student Action for Refugees Submission](/data/EIRRS/EIRRSSubmissionSTAR.pdf)**
+
+**[Pembroke College Student Submission](/data/EIRRS/EIRRSSubmissionPembrokeCollege.pdf)**
+
+**[Worcester College Student Submission](/data/EIRRS/WorcesterEIRRSsubmission.pdf)**
+
+**[St Anne’s College Junior Common Room Submission](/data/EIRRS/AnnesEIRRSsubmission.pdf)**
+
+</div>

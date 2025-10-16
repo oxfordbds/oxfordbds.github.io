@@ -3,21 +3,29 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 
-layout: default
+layout: default_news
 title: Oxford BDS Coalition
 ---
 
-The **Oxford Boycott, Divestment and Sanctions (BDS) Coalition** is an activist-research collective that is comprised of staff and students at the University of Oxford who are committed to Palestinian liberation.
+<strong><h2>Actions</h2></strong>
+<div class="text-with-frame-green">
 
 
-<a href="bds_pledge.html"><button class="button1"><h4>Sign the Oxford Staff BDS Pledge</h4></button></a>
+<text style="color:black; font-size:16px;">Staff across the collegiate University are invited to sign the pledge committing to the BDS movement for Palestine.</text>
 
-### **[Archive of Open Research](./open_research.md)**
+<center><a href="bds_pledge.html"><button class="button1"><h4>Sign the Oxford Staff BDS Pledge</h4></button></a></center>
 
-### **[Roadmaps for Change](./roadmaps.md)**
+</div>
 
-### **[Ethical Investment Review: EIRRS](./ethical_investments.md)**
+<!--- ------------------------------------------------- -->
 
 
-<!--- 
--->
+<strong><h2>News and Events</h2></strong>
+<div class="text-with-frame-black">
+
+<a href="https://www.middleeasteye.net/news/over-ps19mn-oxford-endowment-invested-49-firms-linked-illegal-israeli-activity"><h2>MEE: Oxford's investments in illegal Israeli activity</h2></a>
+
+
+<a href="https://www.middleeasteye.net/news/over-ps19mn-oxford-endowment-invested-49-firms-linked-illegal-israeli-activity" ><img src="assets/img/MEE.png" /></a>
+
+</div>
