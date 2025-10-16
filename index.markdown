@@ -7,7 +7,7 @@ layout: default_news
 title: Oxford BDS Coalition
 ---
 
-<strong><h2>Actions</h2></strong>
+<strong><h3>Actions</h3></strong>
 <div class="text-with-frame-green">
 
 
@@ -20,10 +20,10 @@ title: Oxford BDS Coalition
 <!--- ------------------------------------------------- -->
 
 
-<strong><h2>News and Events</h2></strong>
+<strong><h3>News and Events</h3></strong>
 <div class="text-with-frame-black">
 
-<a href="https://www.middleeasteye.net/news/over-ps19mn-oxford-endowment-invested-49-firms-linked-illegal-israeli-activity"><h2>MEE: Oxford's investments in illegal Israeli activity</h2></a>
+<a href="https://www.middleeasteye.net/news/over-ps19mn-oxford-endowment-invested-49-firms-linked-illegal-israeli-activity"><h3>MEE: Oxford's investments in illegal Israeli activity</h3></a>
 
 
 <a href="https://www.middleeasteye.net/news/over-ps19mn-oxford-endowment-invested-49-firms-linked-illegal-israeli-activity" ><img src="assets/img/MEE.png" /></a>
