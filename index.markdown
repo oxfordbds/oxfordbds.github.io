@@ -29,3 +29,4 @@ title: Oxford BDS Coalition
 <a href="https://www.middleeasteye.net/news/over-ps19mn-oxford-endowment-invested-49-firms-linked-illegal-israeli-activity" ><img src="assets/img/MEE.png" /></a>
 
 </div>
+
