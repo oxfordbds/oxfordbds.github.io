@@ -93,27 +93,11 @@ button {
   border: none
 }
 
-
-  // z-index: 1;
-  // position: absolute;
-  // right: 0;
-  // bottom: 0;
-  // left: -25%;
-  // padding: 1rem;
-  // background-color: black;
-  // text-align: center;
-  // height: 3em;
-  // left: 0;
-  // font-size: small;
-  // width:100%;
-  // margin-top: 60px
-
-
 footer.index {
 //position:bottom; 
 //top:40%; 
 height:100px;/* height of the footer */
-width:200px;
+width:250px;
 //margin-top: 80%;
 display: flex;
 flex-direction: column;  
@@ -129,24 +113,5 @@ footer.bds {
 header {
   z-index:20;
   background-color:#fffaec;
-}
-
-//content {
-//margin-bottom:800px;
-//margin-top:1000px;
-//clear: both;
-//}
-
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-}
-
-.fa-instagram{
-background:#fffaec;
-color:#01796f;
 }
 

@@ -236,12 +236,8 @@ button { background-color: #c70212; /* Green */ vertical-align: middle; padding:
 
 .button1 { background-color: #01796f; /* Green */ vertical-align: middle; padding: 1.25em 0.5em 0.5em 0.5em; line-height: 0px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 4px; font-family: 'Noto Sans'; border: none; }
 
-footer.index { height: 100px; /* height of the footer */ width: 200px; display: flex; flex-direction: column; bottom: 0; }
+footer.index { height: 100px; /* height of the footer */ width: 250px; display: flex; flex-direction: column; bottom: 0; }
 
 footer.bds { bottom: 0; width: 200px; max-height: 500px; }
 
 header { z-index: 20; background-color: #fffaec; }
-
-.fa { padding: 20px; font-size: 30px; width: 50px; text-align: center; text-decoration: none; }
-
-.fa-instagram { background: #fffaec; color: #01796f; }
