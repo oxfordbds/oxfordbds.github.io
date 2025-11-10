@@ -13,7 +13,12 @@ title: Oxford BDS Coalition
 
 <text style="color:black; font-size:16px;">Staff across the collegiate University are invited to sign the pledge committing to the BDS movement for Palestine.</text>
 
-<center><a href="bds_pledge.html"><button class="button1"><h4>Sign the Oxford Staff BDS Pledge</h4></button></a></center>
+<center><a href="bds_pledge.html"><button class="button1"><h4>Sign the Oxford Staff BDS Pledge</h4></button></a></center><p>
+
+
+<text style="color:black; font-size:16px;">We encourage our colleagues to practice giving from a place of solidarity, by engaging with Palestinian mutual aid initiatives.</text>
+
+<center><a href="mutual_aid.html"><button class="button1"><h4>See Gaza Mutual Aid Initiatives</h4></button></a></center>
 
 </div>
 
