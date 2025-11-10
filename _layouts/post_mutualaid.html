@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,minimum-scale =1">
+    <meta name="description" content="Oxford BDS Coalition">
+    <meta name="title" content="Oxford BDS Coalition">
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <style>
+      body {
+        background-color: #fffaec;
+      }
+    </style>
+    {% seo %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>-->
+        <a href="{{ "/" | absolute_url }}" ><img src="assets/img/OxBDSCo_circleblack.png" alt="Logo"  width=80% height=80%/></a>
+
+       
+        <h2>Why mutual aid?</h2>
+
+        Although large-scale aid provided by international NGOs has its place in preserving life in Gaza, we want to encourage each other to practice giving from a place of solidarity, rather than charity. Mutual aid networks empower Palestinians to use the money donated how they see fit, towards achieving their own goals and aspirations. 
+        With the israeli occupation still severely limiting the amount of aid that enters Gaza in spite of the recently agreed ‘ceasefire’, direct financial support remains the only lifeline for many families. 
+        
+        <p><p>
+
+        We also encourage colleagues to donate to non-profits run specifically by/for Palestinians.
+
+
+
+        
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer class="index">
+      <p><a href="https://www.instagram.com/oxford.bds.coalition/" class="fa fa-instagram" style="font-size:25px"></a>   <a href=mailto:bds.coalition.oxford@proton.me>bds.coalition.oxford@proton.me</a></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
