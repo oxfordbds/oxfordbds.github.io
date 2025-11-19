@@ -27,12 +27,16 @@ body{
         text-decoration:none;
         }
 
-    h2, h3, h5, h6 {
+    h2, h3, h6 {
         color:#01796f;
       }
 
       h4 {
         color: #fffaec  ;
+      }
+
+      h5 {
+        color:#01796f;
       }
     
 }
@@ -127,5 +131,16 @@ footer.bds {
 header {
   z-index:20;
   background-color:#fffaec;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tab {
+    display: inline-block;
+    margin-left: 4em;
 }
 
