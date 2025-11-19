@@ -28,6 +28,12 @@ title: Oxford BDS Coalition
 <strong><h3>News and Events</h3></strong>
 <div class="text-with-frame-black">
 
+<a href="https://www.tickettailor.com/events/oxfordbdscoalition/1947920"><h3>Oxford BDS fundraiser: screening of 'The Encampments'</h3></a>
+<h3>7PM 27th November 2025</h3>
+<a href="https://www.tickettailor.com/events/oxfordbdscoalition/1947920" ><img src="assets/img/bds_fundraiser.png" /></a>
+
+
+
 <a href="https://www.middleeasteye.net/news/over-ps19mn-oxford-endowment-invested-49-firms-linked-illegal-israeli-activity"><h3>MEE: Oxford's investments in illegal Israeli activity</h3></a>
 
 
