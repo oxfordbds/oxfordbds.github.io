@@ -4,12 +4,11 @@
 
 
 layout: default
-title: Oxford Digital Festival 2025: A Show of Complicity
+title: "Oxford Digital Festival 2025: A Show of Complicity"
 ---
   
 <br>
 
-<p>The Oxford Digital Festival 2025 took place on Thursday, the 20th November at Rhodes House. The event focused on AI in teaching, research and administration, and was sponsored by Amazon Web Services, Dell Technologies and Microsoft. Read about how our institution’s portrayal of these companies as ‘strategic partners’ and ‘innovators’ obscures their role in grave violations of human rights in Palestine.</p>
 
 <img src="/assets/img/microsoft.jpg" alt="A company logo on a wall">
 <p><small>Image courtesy of <a href="https://www.pexels.com">Pexels</a>.</small></p>
@@ -26,7 +25,7 @@ title: Oxford Digital Festival 2025: A Show of Complicity
 
 <p>The University of Oxford has a moral responsibility and an ethical duty to divest from companies complicit in apartheid and genocide. This isn’t about rejecting technological advancement, but rather about questioning the role we play, as major customers of these companies, in the wider machinery of war and occupation. By portraying such companies as valued partners and desirable employers for our students, we normalise the use of new technologies for the purpose of death and destruction, and the continued militarisation of higher education.</p>
 
-<p>We encourage concerned staff members and students to [sign the Oxford staff and research students’ BDS Pledge](https://oxfordbds.github.io/bds_pledge.html) and boycott further events where the role of tech companies in occupation and genocide is not acknowledged or critically examined; you may also wish to write to the <a href="mailto:digital.festival@admin.ox.ac.uk">Oxford Digital Festival organisers</a>, the <a href="mailto:anne.trefethen@it.ox.ac.uk">Pro-Vice Chancellor (Digital)</a> or the <a href="mailto:david.white@admin.ox.ac.uk">Chief Digital and Information Officer</a> if you’d like to raise specific concerns about the Digital Festival ahead of the 2026 event.</p>
+<p>We encourage concerned staff members and students to <a href="https://oxfordbds.github.io/bds_pledge.html">sign the Oxford staff and research students’ BDS Pledge</a> and boycott further events where the role of tech companies in occupation and genocide is not acknowledged or critically examined; you may also wish to write to the <a href="mailto:digital.festival@admin.ox.ac.uk">Oxford Digital Festival organisers</a>, the <a href="mailto:anne.trefethen@it.ox.ac.uk">Pro-Vice Chancellor (Digital)</a> or the <a href="mailto:david.white@admin.ox.ac.uk">Chief Digital and Information Officer</a> if you’d like to raise specific concerns about the Digital Festival ahead of the 2026 event.</p>
 
 <p><strong><i>Read more about the complicity of these companies in the ongoing genocide and the occupation of Palestine:</i></strong></p>
 
