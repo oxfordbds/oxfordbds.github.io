@@ -7,7 +7,7 @@ layout: default
 title: "Oxford Digital Festival 2025: A Show of Complicity"
 ---
   
-<br>
+<h1>Oxford Digital Festival 2025: A Show of Complicity</h1>
 
 
 <img src="/assets/img/microsoft.jpg" alt="A company logo on a wall">
@@ -49,4 +49,3 @@ title: "Oxford Digital Festival 2025: A Show of Complicity"
 
 
 </ol>
-</br>
