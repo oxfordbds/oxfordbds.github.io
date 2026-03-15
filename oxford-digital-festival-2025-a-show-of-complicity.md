@@ -5,7 +5,6 @@
 
 layout: default
 title: "Oxford Digital Festival 2025: A Show of Complicity"
-permalink: /oxford-digital-festival-a-show-of-complicity/
 ---
   
 ## Oxford Digital Festival 2025: A Show of Complicity
