@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 
-layout: post_digitalfest
-title: Oxford Digital Festival - A Show of Complicity
+layout: default
+title: Oxford Digital Festival 2025 - A Show of Complicity
 ---
 
 <div class="text-with-frame-red">
