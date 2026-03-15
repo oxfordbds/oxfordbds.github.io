@@ -28,7 +28,7 @@ title: Oxford BDS Coalition
 <strong><h3>News and Events</h3></strong>
 <div class="text-with-frame-black">
 
-<a href="digitalfestivalarticle.html"><h3>Oxford Digital Festival 2025: A Show of Complicity</h3></a>
+<a href="/oxford-digital-festival-a-show-of-complicity/"><h3>Oxford Digital Festival 2025: A Show of Complicity</h3></a>
 <p>The Oxford Digital Festival 2025 took place on Thursday 20th November at Rhodes House. The event focused on AI in teaching, research and administration, and was sponsored by Amazon Web Services, Dell Technologies and Microsoft. Read about how our institution’s portrayal of these companies as ‘strategic partners’ and ‘innovators’ obscures their role in grave violations of human rights in Palestine.</p>
 
 <a href="https://www.tickettailor.com/events/oxfordbdscoalition/1947920"><h3>Oxford BDS fundraiser: screening of 'The Encampments'</h3></a>
