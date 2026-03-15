@@ -28,7 +28,7 @@ title: Oxford BDS Coalition
 <strong><h3>News and Events</h3></strong>
 <div class="text-with-frame-black">
 
-<a href = "digitalfestivalarticle.html"><h3>Oxford Digital Festival 2025: A Show of Complicity</h3></a>
+<a href="digitalfestivalarticle.md"><h3>Oxford Digital Festival 2025: A Show of Complicity</h3></a>
 
 <a href="https://www.tickettailor.com/events/oxfordbdscoalition/1947920"><h3>Oxford BDS fundraiser: screening of 'The Encampments'</h3></a>
 <a href="https://www.tickettailor.com/events/oxfordbdscoalition/1947920" ><img src="assets/img/bds_fundraiser_1.jpeg" class=center width=70%/></a>
